@@ -2,16 +2,16 @@
 A single page with the author's personal and technical information, created along with a Kenzie HTML and CSS course
 
 ## Visuals
-![Screenshot](screenshot1.png)
-![Screenshot](screenshot2.png)
+![alt text](img/screenshot1.png)
+![alt](https://link)
 
 ## Status
 Project completed.
 
 ## Installation
 
-### Aplication demo
 
+## Aplication demo
 Link: https://leandro-silva-santos.github.io/
 
 ## License
